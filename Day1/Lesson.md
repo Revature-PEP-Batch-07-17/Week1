@@ -1,6 +1,6 @@
 # Day 1: Intro to Java
 
-<img src= "../Java-Basics/Resources/3_tier_model.png"  width="40%" height="30%">  
+<img src= "../Day1/Resources/3_tier_model.png"  width="40%" height="30%">  
 
 <br><br>
   
