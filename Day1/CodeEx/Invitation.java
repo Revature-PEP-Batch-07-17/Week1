@@ -5,9 +5,6 @@ public class Invitation {
         // Allows me to take in user input
          Scanner scan = new Scanner(System.in);
 
-         adding();
-         System.out.println(adding());
-
         //prompt user for info
         System.out.println("Enter a person: ");
         // save info in variable
@@ -42,10 +39,5 @@ public class Invitation {
         System.out.println(nickname);
 
         scan.close();
-    }
-
-    static int adding(){
-        int sum = 5 + 3;
-        return sum;
     }
 }
