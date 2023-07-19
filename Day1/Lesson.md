@@ -1,12 +1,8 @@
 # Day 1: Intro to Java
 
-<<<<<<< HEAD
 <img src= "../Day1/Resources/3_tier_model.png"  width="40%" height="30%">
  
-=======
-<img src= "../Day1/Resources/3_tier_model.png"  width="40%" height="30%">  
 
->>>>>>> a4940d4e7166f435b799f8a2db5dd204dce94010
 <br><br>
   
 ## The Big Picture:
